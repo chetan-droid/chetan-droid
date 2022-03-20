@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chetan-droid
-- 👀 I’m interested in web developing
+- 👀 I’m interested in web developing and data analysis
 - 🌱 I’m currently learning B.Tech from CSE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
