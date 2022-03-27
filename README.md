@@ -2,7 +2,8 @@
 - 👀 I’m interested in web developing and data analysis
 - 🌱 I’m currently learning B.Tech from CSE
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me?
+- Mail ID - 143chetan1997@gmail.com
 - Here is my linkedin account https://www.linkedin.com/in/chetan-kumar-1752441b3/
 
 <!---
