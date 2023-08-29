@@ -59,9 +59,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/chetan-droid/chetan-droid/output/snake.svg" alt="Snake animation" />
 
 ###
 
