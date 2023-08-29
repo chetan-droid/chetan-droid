@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Chetan Kumar and I'm from Jamshedpur, JH</h2>
+![image](https://github.com/chetan-droid/chetan-droid/assets/73033694/05020d44-86a9-4746-886f-27082120ecb3)<h2 align="left">Hi 👋! My name is Chetan Kumar and I'm from Jamshedpur, JH</h2>
 
 ###
 
@@ -52,13 +52,10 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  <a href="mailto:chetankr60@outlook.com" target="_blank">
+  <a href="chetankr60@outlook.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
 </div>
-
-###
-
 
 ###
 
