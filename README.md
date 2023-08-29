@@ -1,4 +1,4 @@
-![image](https://github.com/chetan-droid/chetan-droid/assets/73033694/05020d44-86a9-4746-886f-27082120ecb3)<h2 align="left">Hi 👋! My name is Chetan Kumar and I'm from Jamshedpur, JH</h2>
+<h2 align="left">Hi 👋! My name is Chetan Kumar and I'm from Jamshedpur, JH</h2>
 
 ###
 
